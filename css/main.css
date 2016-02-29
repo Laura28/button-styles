@@ -30,7 +30,7 @@ div {
 }
 
 .btn-small {
-  font-size:0.875rem;
+  font-size: 0.875rem;
 }
 
 .btn-big {
@@ -41,7 +41,7 @@ div {
   color: #fff;
   background-color: #ccc;
   border-width: 3px;
-  border-color: #ccc
+  border-color: #ccc;
 }
 
 .btn-subtle:hover {
